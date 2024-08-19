@@ -37,7 +37,7 @@ Currently, two official plugins are available:
 <ol>
     <li>
         enter this command wherever you want to create this local clone in your disk drive
-        'git clone https://github.com/Neel-blvd/cms.git'
+        `git clone https://github.com/Neel-blvd/cms.git`
     </li>
 
     <li>
