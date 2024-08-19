@@ -27,7 +27,7 @@ Currently, two official plugins are available:
 
 
 
-## How to setup a local clone of this repo, on your local machine `#000000 hi` -
+## How to setup a local clone of this repo, on your local machine -
 
 1. enter this command wherever you want to create this local clone in your disk drive
 `git clone https://github.com/Neel-blvd/cms.git`
