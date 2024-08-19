@@ -18,7 +18,7 @@ Currently, two official plugins are available:
 
 3) TailwindCSS would be used as it helps scale our application with ease, and has a negligible learning curve.
 
-4) All commit messages are written in present tense, and not in past tense. (Weird industry convention)
+4) All commit messages are written in present tense, and not in past tense. (Weird industry standard)
 
 
 
