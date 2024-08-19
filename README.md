@@ -8,6 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+
+
 // Quick Explanation of what is going on -
 
 1) All of our main source code lies in the 'src' directory(where we would be spending 99% of out time)
@@ -19,6 +21,23 @@ Currently, two official plugins are available:
 4) All commit messages are written in present tense, and not in past tense. (Weird industry convention)
 
 
+
+
+// How to setup a local clone of this repo, on your local machine -
+
+1) enter this command wherever you want to create this local clone in your disk drive
+    'git clone https://github.com/Neel-blvd/cms.git'
+
+2) enter 'npm i' to install all required dependencies to actually make serving this website possible.
+These installed dependencies get install in the 'node_modules' directory, which you WOULD NOT FIND on the github repo(remote repo), as this directory takes up a lot of space.
+
+
+
+
 // How to spin up the 'vite' development server to serve the website locally -
 
--> Run the command 'npm run dev' in the root directory(./cms) and follow the url, outputted on the terminal.
+-> Run the command 'npm run dev' in the root directory(./cms) and follow the url, outputted on the terminal
+    (make sure you've already executed 'npm i').
+
+
+
