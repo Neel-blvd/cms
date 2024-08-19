@@ -10,15 +10,24 @@ Currently, two official plugins are available:
 
 
 
-// Quick Explanation of what is going on -
+<h1> Quick Explanation of what is going on - </h1>
+<ol>
+    <li>
+        All of our main source code lies in the 'src' directory(where we would be spending 99% of out time)
+    </li>
+    <li>
+        React, under the hood, runs and compiles the 'index.html' file(present in the root directory), and the   'index.html' file calls the 'main.jsx' file, and this calls 'app.jsx', so on and so forth, forming a tree like structure, consisting of all our application code, which is written in these 'jsx' files.
+    </li>
+    <li>
+        TailwindCSS would be used as it helps scale our application with ease, and has a negligible learning curve.
+    </li>
+    <li>
+        All commit messages are written in present tense, and not in past tense. (Weird industry standard)
+    </li>
+</ol>
 
-1) All of our main source code lies in the 'src' directory(where we would be spending 99% of out time)
 
-2) React, under the hood, runs and compiles the 'index.html' file(present in the root directory), and the   'index.html' file calls the 'main.jsx' file, and this calls 'app.jsx', so on and so forth, forming a tree like structure, consisting of all our application code, which is written in these 'jsx' files.
 
-3) TailwindCSS would be used as it helps scale our application with ease, and has a negligible learning curve.
-
-4) All commit messages are written in present tense, and not in past tense. (Weird industry standard)
 
 
 
