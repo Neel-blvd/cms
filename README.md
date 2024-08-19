@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 
 
-<h1> Quick Explanation of what is going on - </h1>
+<h2> Quick Explanation of what is going on - </h1>
 <ol>
     <li>
         All of our main source code lies in the 'src' directory(where we would be spending 99% of out time)
@@ -32,13 +32,19 @@ Currently, two official plugins are available:
 
 
 
-// How to setup a local clone of this repo, on your local machine -
+<h2>How to setup a local clone of this repo, on your local machine -</h2>
 
-1) enter this command wherever you want to create this local clone in your disk drive
-    'git clone https://github.com/Neel-blvd/cms.git'
+<ol>
+    <li>
+        enter this command wherever you want to create this local clone in your disk drive
+        'git clone https://github.com/Neel-blvd/cms.git'
+    </li>
 
-2) enter 'npm i' to install all required dependencies to actually make serving this website possible.
-These installed dependencies get install in the 'node_modules' directory, which you WOULD NOT FIND on the github repo(remote repo), as this directory takes up a lot of space.
+    <li>
+        enter 'npm i' to install all required dependencies to actually make serving this website possible.
+        These installed dependencies get install in the 'node_modules' directory, which you WOULD NOT FIND on the github repo(remote repo), as this directory takes up a lot of space.
+    </li>
+</ol>
 
 
 
