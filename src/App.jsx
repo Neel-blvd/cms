@@ -5,16 +5,14 @@ import Manage from './components/Manage'
 import CaseAI from './components/CaseAI'
 import Help from './components/Help'
 import Navbar from './components/Navbar'
-import LoginButton from './components/LoginButton'
 
 function App() {
 
   return (
     <>
-      <main className='font-mono border border-black'>
+      <main className='font-mono h-screen min-h-screen'>
 
-          <Navbar />
-          {/* <LoginButton /> */}
+        <Navbar />
        
 
         <Routes>
